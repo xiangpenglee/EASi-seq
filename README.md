@@ -12,6 +12,7 @@ The code here is no longer maintained and is provided as is in order for the rea
 
 ## Contents
 Zymo/: 
+
 	Zymo_reference_based_analysis.ipynb (Zymobiomics EASi-seq reference based data analysis, Figure 2b-f)
 	
 	Zymo_kraken_based_analysis.ipynb (Zymobiomics EASi-seq TDA analysis)
@@ -19,12 +20,15 @@ Zymo/:
 	Zymo_metagenomic_processing.ipynb (Zymobiomics EASi-seq and metagenomic intergration, Figure 2g-j)
 	
 Simulation/:
+
 	Taxa_profiler_evaluation_for_TDA_barcode_generation.ipynb (Taxonomic profiler evaluation using simulation data, Figure S7 and Discussion S1)
 
 Elenta/:
+
 	Elenta_EASi-seq_analysis.ipynb (Elenta 22 strain EASi-seq data analysis, Figure 3)
 	
 HM3/: 
+
 	Human_Gut_Microbiome_EASi-seq_data_processing.ipynb	(Human microbiome EASi-seq data processing)
 	
 	HM3_EASi-seq_and_metagenomic_integration.ipynb (Human microbiome EASi-seq and Metagenomic data integration, Figure 4)
@@ -32,6 +36,7 @@ HM3/:
 	HM3_metagenome_VS_EASi-seq_psudobulk_gtdb.ipynb (Human microbiome EASi-seq and Metagenomic comparasion, Figure S20)
 	
 Ocean/:
+
 	Ocean_microbiome_EASi-seq_analysis.ipynb (Ocean water microbiome EASi-seq data analysis process, Figure 5a-b)
 	
 	Halioglobus_analysis_gene_family-Copy1.ipynb (Ocean water microbiome EASi-seq data Halioglobus genus single cell pathway analysis, Figure 5c-d)
