@@ -66,10 +66,13 @@ Seqtk toolkit (https://github.com/lh3/seqtk)
 
 ## Requried Database
 Kraken2/Bracken Database
+
 PlusPF https://benlangmead.github.io/aws-indexes/k2, Version: 1/27/2021
+
 GTDB https://gtdb.ecogenomic.org/tools, Release 95) 
 
-Comprehensive Antibiotic Resistance Database (CARD) (v 3.1.4)(https://card.mcmaster.ca/download)
+Comprehensive Antibiotic Resistance Database (CARD) (v 3.1.4)
+(https://card.mcmaster.ca/download)
 
 ## Data availability
 All sequencing data is accessible at the NCBI Sequence Read Archive (Accession numbers: SUB12874540).
