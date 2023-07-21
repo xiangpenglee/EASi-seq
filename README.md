@@ -41,6 +41,9 @@ Ocean/:
 	
 	Halioglobus_analysis_gene_family-Copy1.ipynb (Ocean water microbiome EASi-seq data Halioglobus genus single cell pathway analysis, Figure 5c-d)
 
+Supplimentary_Data/:
+This folder contains supplementary tables for the manuscripts. 
+
 	
 ## Required Tools
 
