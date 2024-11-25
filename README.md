@@ -13,7 +13,9 @@ The code here is no longer maintained and is provided as is in order for the rea
 ## Contents
 Zymo/: 
 
-	Zymo_reference_based_analysis.ipynb (Zymobiomics EASi-seq reference based data analysis, Figure 2b-f)
+	Zymo_reference_based_analysis.ipynb (Zymobiomics EASi-seq reference based data analysis, Figure 2b-e)
+
+ 	Zymo_EASi-seq_vs_metagenomics.ipynb (Zymobiomics EASi-seq reference based data analysis VS metagenomics, Figure 2f)
 	
 	Zymo_kraken_based_analysis.ipynb (Zymobiomics EASi-seq TDA analysis)
 		
